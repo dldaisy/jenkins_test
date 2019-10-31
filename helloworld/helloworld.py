@@ -2,7 +2,7 @@
 
 
 def main():
-    print("jenkins: hello goodbye world with trim!!")
+    print("jenkins: hope this is final test for hello goodbye world with trim!!")
 
 
 if __name__ == "__main__":
