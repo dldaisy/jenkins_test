@@ -2,7 +2,7 @@
 
 
 def main():
-    print("jenkins: hello world!!")
+    print("jenkins: hello goodbye world!!")
 
 
 if __name__ == "__main__":
